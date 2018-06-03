@@ -1,19 +1,19 @@
 # Deep RL Quadcopter Controller
 
-*Teach a Quadcopter How to Fly!*
+*Udacity's Teach a Quadcopter How to Fly!*
 
-In this project, you will design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice! 
+In this final project for Udacity, we designed an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm.  In this case DDPG or Deep Deterministic Policy Gragients.
 
 ## Project Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
 
 ```
-git clone https://github.com/udacity/RL-Quadcopter-2.git
-cd RL-Quadcopter-2
+git clone https://github.com/jasensanders/DeepLearning_p5v2.git
+cd DeepLearning_p5v2
 ```
 
-2. Create and activate a new environment.
+2. Create and activate a new environment in anaconda.
 
 ```
 conda create -n quadcop python=3.6 matplotlib numpy pandas
